@@ -63,7 +63,7 @@ contract Math {
 
 contract Healthureum is ERC20,Math
 {
-   string public constant symbol = "HTH";
+   string public constant symbol = "HHEM";
      string public constant name = "Healthureum";
      uint8 public constant decimals = 18;
      uint256 _totalSupply = Mul(150000000,(10 **18));
